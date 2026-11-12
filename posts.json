@@ -78,5 +78,22 @@
     "postedAt": "2026-11-12T21:36:52.661Z",
     "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n25gi46d422r",
     "cid": "bafyreih4vkn7ddjrtoingscm2gezgzujnbyahrs4wv6vi3hvzkb4sivlda"
+  },
+  {
+    "id": "ad80a1a7-1064-46ea-b294-14deed557af7",
+    "platform": "bluesky",
+    "date": "2026-11-13T05:42:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "To get users to your SaaS\n\nComment before you post on social like X, BlueSky etc,\n\nSpend 20-30 minutes a day leaving real replies on the 5-10 accounts your buyers follow. \n\nTheir audience finds you before your own posts ever need to.\n\n#SaaS #OrganicGrowth #StartupMarketing #GrowthHacking",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-12T21:43:10.849Z"
   }
 ]
