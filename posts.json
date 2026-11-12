@@ -95,5 +95,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-12T21:43:10.849Z"
+  },
+  {
+    "id": "a292828c-a031-42e9-afcd-96f31af7510f",
+    "platform": "bluesky",
+    "date": "2026-11-14T05:42:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "To get you SaaS website get ranked first in Google search results,\n\nUse tools like Serper dev\n\nIt pulls Google results into my workflows to automate keyword and competitor research.\n\nYou will know ranking keywords and know more about your competitors to beat them.\n\n#SEO #GEO #OrganicGrowth #SaaS",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-12T21:49:06.856Z"
   }
 ]
