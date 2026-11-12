@@ -129,5 +129,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-12T21:59:08.024Z"
+  },
+  {
+    "id": "b5b8ff46-10a4-4a3b-9270-4685c3e7d207",
+    "platform": "bluesky",
+    "date": "2026-11-16T05:42:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "To analyze dozens of competing SaaS websites without manually copying their content,\n\nUse Firecrawl, it turns websites into structured data that you can process and analyze.\n\nUseful for researching competitors' landing pages, content strategies and website structures.\n\n#SEO #MarketingTools #SaaS",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-12T22:26:37.752Z"
   }
 ]
