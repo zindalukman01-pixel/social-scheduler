@@ -112,5 +112,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-12T21:49:06.856Z"
+  },
+  {
+    "id": "ba219bc9-37ff-4912-a342-3a8a765717c6",
+    "platform": "bluesky",
+    "date": "2026-11-15T05:42:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Are backlinks(other websites using links to your SaaS website) dead?\n \nNot quite.\n\nThe interesting thing about SEO is that links still matter, \n\nBut where they come from, why they exist, and how naturally they fit into the web seem to matter more than ever.\n\n#SEO #LinkBuilding #OrganicGrowth #SaaS",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-12T21:59:08.024Z"
   }
 ]
