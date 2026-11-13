@@ -1,13 +1,5 @@
 [
   {
-    "time": "2026-10-09T06:04:55.385Z",
-    "level": "info",
-    "event": "PUBLISH_START",
-    "message": "Publishing post 06d29d09-3ba1-4ae5-829f-9fbadf8822c5.",
-    "postId": "06d29d09-3ba1-4ae5-829f-9fbadf8822c5",
-    "timezone": "Africa/Nairobi"
-  },
-  {
     "time": "2026-10-09T06:04:56.439Z",
     "level": "info",
     "event": "PUBLISHED",
@@ -3998,5 +3990,13 @@
     "message": "Post ad80a1a7-1064-46ea-b294-14deed557af7 published successfully.",
     "postId": "ad80a1a7-1064-46ea-b294-14deed557af7",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-13T17:24:03.609Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
