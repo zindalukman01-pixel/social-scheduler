@@ -1,37 +1,5 @@
 [
   {
-    "time": "2026-10-09T18:49:19.226Z",
-    "level": "info",
-    "event": "DELETED",
-    "message": "Deleted posted post 0a646f1a-3403-478f-a3b0-481530e2645e after 24 hours and associated media file deleted.",
-    "postId": "0a646f1a-3403-478f-a3b0-481530e2645e",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-09T18:49:19.978Z",
-    "level": "info",
-    "event": "LOGIN",
-    "message": "Logged into Bluesky.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
-    "time": "2026-10-09T18:49:19.978Z",
-    "level": "info",
-    "event": "PUBLISH_START",
-    "message": "Publishing post 0d9e102e-a070-407d-8590-0df0aadfbda5.",
-    "postId": "0d9e102e-a070-407d-8590-0df0aadfbda5",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-09T18:49:21.559Z",
-    "level": "info",
-    "event": "PUBLISHED",
-    "message": "Post 0d9e102e-a070-407d-8590-0df0aadfbda5 published successfully.",
-    "postId": "0d9e102e-a070-407d-8590-0df0aadfbda5",
-    "timezone": "Africa/Nairobi"
-  },
-  {
     "time": "2026-10-09T22:56:45.356Z",
     "level": "info",
     "event": "DELETED",
@@ -3998,5 +3966,37 @@
     "message": "No posts are due.",
     "postId": null,
     "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-14T10:04:54.726Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post ad80a1a7-1064-46ea-b294-14deed557af7 after 24 hours.",
+    "postId": "ad80a1a7-1064-46ea-b294-14deed557af7",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-14T10:04:55.110Z",
+    "level": "info",
+    "event": "LOGIN",
+    "message": "Logged into Bluesky.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-14T10:04:55.110Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post a292828c-a031-42e9-afcd-96f31af7510f.",
+    "postId": "a292828c-a031-42e9-afcd-96f31af7510f",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-14T10:04:55.380Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post a292828c-a031-42e9-afcd-96f31af7510f published successfully.",
+    "postId": "a292828c-a031-42e9-afcd-96f31af7510f",
+    "timezone": "Africa/Nairobi"
   }
 ]
