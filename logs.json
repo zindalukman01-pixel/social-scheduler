@@ -1,21 +1,5 @@
 [
   {
-    "time": "2026-10-10T02:12:51.425Z",
-    "level": "info",
-    "event": "DELETED",
-    "message": "Deleted posted post 9d0f9a2f-4649-4ff1-9770-85f3b61bf3a8 after 24 hours and associated media file deleted.",
-    "postId": "9d0f9a2f-4649-4ff1-9770-85f3b61bf3a8",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-10T02:12:51.425Z",
-    "level": "info",
-    "event": "CHECK",
-    "message": "No posts are due.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
     "time": "2026-10-10T08:34:35.008Z",
     "level": "info",
     "event": "DELETED",
@@ -3998,5 +3982,21 @@
     "message": "Post ba219bc9-37ff-4912-a342-3a8a765717c6 published successfully.",
     "postId": "ba219bc9-37ff-4912-a342-3a8a765717c6",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-15T15:00:15.308Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post a292828c-a031-42e9-afcd-96f31af7510f after 24 hours.",
+    "postId": "a292828c-a031-42e9-afcd-96f31af7510f",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-15T15:00:15.308Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
