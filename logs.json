@@ -2,14 +2,6 @@
   {
     "time": "2026-10-09T22:56:45.544Z",
     "level": "info",
-    "event": "LOGIN",
-    "message": "Logged into Bluesky.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
-    "time": "2026-10-09T22:56:45.544Z",
-    "level": "info",
     "event": "PUBLISH_START",
     "message": "Publishing post f9e4bae1-25f0-4aa4-9fb2-0ebc0aa4d655.",
     "postId": "f9e4bae1-25f0-4aa4-9fb2-0ebc0aa4d655",
@@ -3993,6 +3985,14 @@
   },
   {
     "time": "2026-11-14T20:57:07.282Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-15T00:57:04.007Z",
     "level": "info",
     "event": "CHECK",
     "message": "No posts are due.",
