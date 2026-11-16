@@ -69,5 +69,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-16T20:55:10.594Z"
+  },
+  {
+    "id": "5f6aac9f-147c-46b3-9fb5-f8ef7607e531",
+    "platform": "bluesky",
+    "date": "2026-11-20T05:42:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "A small SaaS website doesn't need to compete for every popular keyword.\n\nLowFruits helps find search terms with weaker competition.\n\nThese terms can be a better starting point for websites without the authority or resources to compete against established brands.\n\n#SEO #BuildInPublic #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-16T20:57:47.601Z"
   }
 ]
