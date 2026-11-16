@@ -52,5 +52,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-16T20:40:23.957Z"
+  },
+  {
+    "id": "06a70fb2-ea5e-4d20-8708-a03fd2b710a6",
+    "platform": "bluesky",
+    "date": "2026-11-19T05:42:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Remember when link building meant mass guest posts, directory submissions, PBNs and exchanges?\n\nThat approach is losing its appeal. \n\nFor your SaaS website, build relationships, earn real recommendations and creating useful resources are better strategies.\n\n#SEO  #LinkBuilding #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-16T20:55:10.594Z"
   }
 ]
