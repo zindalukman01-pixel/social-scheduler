@@ -1,21 +1,5 @@
 [
   {
-    "time": "2026-10-10T14:42:26.840Z",
-    "level": "info",
-    "event": "DELETED",
-    "message": "Deleted posted post 9dcfe0fa-a2c7-44a0-9143-a87942a9215a after 24 hours and associated media file deleted.",
-    "postId": "9dcfe0fa-a2c7-44a0-9143-a87942a9215a",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-10T14:42:27.334Z",
-    "level": "info",
-    "event": "LOGIN",
-    "message": "Logged into Bluesky.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
     "time": "2026-10-10T14:42:27.334Z",
     "level": "info",
     "event": "PUBLISH_START",
@@ -3998,5 +3982,21 @@
     "message": "Post b5b8ff46-10a4-4a3b-9270-4685c3e7d207 published successfully.",
     "postId": "b5b8ff46-10a4-4a3b-9270-4685c3e7d207",
     "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-16T16:29:47.176Z",
+    "level": "info",
+    "event": "DELETED",
+    "message": "Deleted posted post ba219bc9-37ff-4912-a342-3a8a765717c6 after 24 hours.",
+    "postId": "ba219bc9-37ff-4912-a342-3a8a765717c6",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-16T16:29:47.176Z",
+    "level": "info",
+    "event": "CHECK",
+    "message": "No posts are due.",
+    "postId": null,
+    "timezone": "UTC"
   }
 ]
