@@ -1,8 +1,8 @@
 [
   {
-    "id": "b5b8ff46-10a4-4a3b-9270-4685c3e7d207",
+    "id": "c3f37dc7-5de5-482a-bfa7-23cebe322445",
     "platform": "bluesky",
-    "date": "2026-11-16T05:42:00.000Z",
+    "date": "2026-11-17T05:42:00.000Z",
     "timezone": "Africa/Nairobi",
     "recurrence": {
       "type": "none"
@@ -11,30 +11,13 @@
     "posted": true,
     "retryCount": 0,
     "error": null,
-    "text": "To analyze dozens of competing SaaS websites without manually copying their content,\n\nUse Firecrawl, it turns websites into structured data that you can process and analyze.\n\nUseful for researching competitors' landing pages, content strategies and website structures.\n\n#SEO #MarketingTools #SaaS",
-    "thread": null,
-    "media": null,
-    "createdAt": "2026-11-12T22:26:37.752Z",
-    "postedAt": "2026-11-16T06:44:00.606Z",
-    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n2fwh7owy524",
-    "cid": "bafyreie5nfp5qo6ptl4zoetg5nk46wehooakirejrgnr35a2b4zie34ho4"
-  },
-  {
-    "id": "c3f37dc7-5de5-482a-bfa7-23cebe322445",
-    "platform": "bluesky",
-    "date": "2026-11-17T05:42:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "scheduled",
-    "posted": false,
-    "retryCount": 0,
-    "error": null,
     "text": "Your SaaS website pages need Indexing\n\nPrimeIndexer helps submit URLs for indexing, making it useful to explore when managing multiple pages.\n\nJust remember: getting a URL submitted doesn't guarantee Google will crawl, index or rank it.\n\n#SEO #TechnicalSEO #SaaS #BuildInPublic #IndieHacker",
     "thread": null,
     "media": null,
-    "createdAt": "2026-11-13T21:03:45.712Z"
+    "createdAt": "2026-11-13T21:03:45.712Z",
+    "postedAt": "2026-11-17T08:23:29.565Z",
+    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n2imhzmjbb2v",
+    "cid": "bafyreihhtpoibagupril7hpgxtqjlbtfr5vgttncjgo37mtrr47odqzq6y"
   },
   {
     "id": "a41443e0-6e5c-466c-8362-f7164d382d29",
