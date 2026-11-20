@@ -276,5 +276,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:49:02.429Z"
+  },
+  {
+    "id": "d2f32799-e461-4b25-b707-51fe5a8a0ac9",
+    "platform": "bluesky",
+    "date": "2026-12-03T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Some SaaS blog owners avoid linking to other websites because they fear losing visitors or authority\n\nBut linking to useful, relevant sources helps readers explore a topic more deeply.\n\nGood content doesn't have to pretend that other useful websites don't exist.\n\n#SEO #ContentMarketing #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:51:05.621Z"
   }
 ]
