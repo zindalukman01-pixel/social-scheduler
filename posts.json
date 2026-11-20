@@ -225,5 +225,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:43:19.454Z"
+  },
+  {
+    "id": "f0c459f8-e22e-4261-9287-3ac8d198365e",
+    "platform": "bluesky",
+    "date": "2026-12-01T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Sometimes you need the right partner.\n\nFind another founder serving the same audience with a complementary SaaS product\n\nExchange newsletter mentions, create a joint resource or host a webinar together\n\nBoth SaaS products get exposure to the audience\n\n#SaaS #Partnerships #OrganicGrowth #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:46:57.870Z"
   }
 ]
