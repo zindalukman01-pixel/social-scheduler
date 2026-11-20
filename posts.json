@@ -140,5 +140,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:32:01.142Z"
+  },
+  {
+    "id": "20c70c26-1eeb-4cb4-a410-040b956ec265",
+    "platform": "bluesky",
+    "date": "2026-11-26T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "One of the biggest mistakes in SEO is creating separate pages for keywords that belong together.\n\nKeyword Insights groups related keywords into clusters, helping you decide which topics deserve individual pages.\n\nA useful approach to planning a SaaS content strategy.\n\n#SEO #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:33:42.109Z"
   }
 ]
