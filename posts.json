@@ -1,25 +1,5 @@
 [
   {
-    "id": "06a70fb2-ea5e-4d20-8708-a03fd2b710a6",
-    "platform": "bluesky",
-    "date": "2026-11-19T05:42:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "posted",
-    "posted": true,
-    "retryCount": 0,
-    "error": null,
-    "text": "Remember when link building meant mass guest posts, directory submissions, PBNs and exchanges?\n\nThat approach is losing its appeal. \n\nFor your SaaS website, build relationships, earn real recommendations and creating useful resources are better strategies.\n\n#SEO  #LinkBuilding #IndieHacker",
-    "thread": null,
-    "media": null,
-    "createdAt": "2026-11-16T20:55:10.594Z",
-    "postedAt": "2026-11-19T13:57:11.586Z",
-    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n2oa2kzjvh2t",
-    "cid": "bafyreie22b4gnsfbruj25kmvjsrwm5yb23qpovqiyjnp7puxj72lte7yt4"
-  },
-  {
     "id": "5f6aac9f-147c-46b3-9fb5-f8ef7607e531",
     "platform": "bluesky",
     "date": "2026-11-20T05:42:00.000Z",
