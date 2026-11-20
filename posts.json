@@ -123,5 +123,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:30:04.150Z"
+  },
+  {
+    "id": "6a0d9301-dd55-4a30-82e6-54ef51869979",
+    "platform": "bluesky",
+    "date": "2026-11-25T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Want people to follow your SaaS journey?\n\nShow the actual work.\n\nShare user feedback, traffic numbers, failed experiments and lessons learned.\n\nYou don't need to make every update look like a success story. \n\nHonest progress is often more interesting.\n\n#BuildInPublic #IndieHackers #SaaS",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:32:01.142Z"
   }
 ]
