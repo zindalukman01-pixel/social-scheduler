@@ -38,5 +38,22 @@
     "postedAt": "2026-11-20T12:02:20.195Z",
     "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n2qk44dgtu2t",
     "cid": "bafyreidtaj2yfagecs675zjbcjyxiahvudyce57yorhktleen5fljtg6c4"
+  },
+  {
+    "id": "d64795b4-9836-4712-bcd1-cf80304f2442",
+    "platform": "bluesky",
+    "date": "2026-11-21T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Your SaaS website doesn't always need a clickable link to get noticed.\n\nWhen people discuss, recommend or reference your SaaS across the web, those mentions can contribute to your online visibility and reputation.\n\nDon't overlook you SaaS brand awareness in your SEO strategy\n\n#SEO #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:20:43.871Z"
   }
 ]
