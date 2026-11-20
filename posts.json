@@ -310,5 +310,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:52:40.174Z"
+  },
+  {
+    "id": "5f766b7e-cde4-4098-b309-fa77e2518f11",
+    "platform": "bluesky",
+    "date": "2026-12-05T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "200 backlinks in one month and none for the next months isn't  a great growth strategy for your SaaS blog.\n\nFocus on consistently earning genuine recommendations, useful references and relevant mentions.\n\nSustainable SEO is about building credibility over time.\n\n#SEO #LinkBuilding #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:58:22.142Z"
   }
 ]
