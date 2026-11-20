@@ -174,5 +174,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:37:16.661Z"
+  },
+  {
+    "id": "dcd55c53-605e-421e-9950-9328503432ca",
+    "platform": "bluesky",
+    "date": "2026-11-28T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Your potential users are already discussing their problems somewhere\n\nFind the relevant subreddit, Slack group or Discord server\n\nSpend time answering questions and helping people without immediately pitching your SaaS\n\nBuild trust before asking for attention.\n\n#CommunityMarketing #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:38:58.310Z"
   }
 ]
