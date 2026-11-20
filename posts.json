@@ -327,5 +327,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:58:22.142Z"
+  },
+  {
+    "id": "84874c61-0946-42d1-bbdd-40b69f04ee41",
+    "platform": "bluesky",
+    "date": "2026-12-06T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "SaaS websites growing sustainably aren't necessarily the ones with the biggest backlink counts\n\nThey're the ones earning attention from relevant publications, communities, customers and industry peers.\n\nStop treating backlinks like a numbers game\n\n#SEO #LinkBuilding #SaaS #OrganicGrowth #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T13:00:09.046Z"
   }
 ]
