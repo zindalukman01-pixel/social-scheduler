@@ -242,5 +242,39 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:46:57.870Z"
+  },
+  {
+    "id": "636914b5-913c-4c42-91b2-3bdb587007b5",
+    "platform": "bluesky",
+    "date": "2026-12-02T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "What if your next SaaS blog post started with actual search data instead of a random content idea?\n\nObbio AI helps turn Google Search Console opportunities into blog posts and landing pages.\n\nA different approach to deciding what your SaaS blog should publish next.\n\n#AISEO #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:48:55.654Z"
+  },
+  {
+    "id": "508cdf1e-7efd-4d38-aa37-7d1e09d34485",
+    "platform": "bluesky",
+    "date": "2026-12-02T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "What if your next SaaS blog post started with actual search data instead of a random content idea?\n\nObbio AI helps turn Google Search Console opportunities into blog posts and landing pages.\n\nA different approach to deciding what your SaaS blog should publish next.\n\n#AISEO #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:49:02.429Z"
   }
 ]
