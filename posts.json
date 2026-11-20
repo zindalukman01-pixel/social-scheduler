@@ -293,5 +293,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:51:05.621Z"
+  },
+  {
+    "id": "e593288a-5497-4539-9f3f-94930e2911f8",
+    "platform": "bluesky",
+    "date": "2026-12-04T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Your SaaS tool can be discovered through AI answers, not just traditional Google search results.\n\nOtterlyAI tracks brand and competitor mentions and citations across AI-generated answers.\n\nIt's useful for monitoring how your SaaS appears in the AI search landscape.\n\n#AISearch #SEO #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:52:40.174Z"
   }
 ]
