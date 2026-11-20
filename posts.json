@@ -208,5 +208,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:40:35.926Z"
+  },
+  {
+    "id": "c05a2723-e17c-4525-a5ac-7aaae0559db4",
+    "platform": "bluesky",
+    "date": "2026-11-30T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Reddit discussions, niche forums and online communities can be valuable sources of referral traffic and SaaS discovery.\n\nThe key is participation. Answer questions, share useful resources and become part of the conversation.\n\nDon't link spam these places.\n\n#SEO #OrganicGrowth #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:43:19.454Z"
   }
 ]
