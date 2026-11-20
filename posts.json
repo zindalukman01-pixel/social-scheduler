@@ -157,5 +157,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:33:42.109Z"
+  },
+  {
+    "id": "41b47795-d07d-4c25-b691-90ee7a4399af",
+    "platform": "bluesky",
+    "date": "2026-11-27T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Would you rather get one backlink from a site serving exactly your audience or ten links from unrelated high-authority sites?\n\nA relevant link can bring the right visitors, and builds credibility for your SaaS website\n\nDomain authority alone misses the point.\n\n#SEO #LinkBuilding #SaaS #IndieHackers",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:37:16.661Z"
   }
 ]
