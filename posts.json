@@ -106,5 +106,22 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:27:31.934Z"
+  },
+  {
+    "id": "ce284eb0-7ba5-498f-bedd-6a19e8cf13cf",
+    "platform": "bluesky",
+    "date": "2026-11-24T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "People are increasingly asking AI to recommend SaaS's.\n\nTry asking ChatGPT and Perplexity the questions your potential users ask.\n\nLook at which websites appear in their answers. \n\nStudy those sources and find legitimate opportunities to get backlinks from them.\n\n#AISearch #SEO #SaaS #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:30:04.150Z"
   }
 ]
