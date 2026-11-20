@@ -72,5 +72,39 @@
     "thread": null,
     "media": null,
     "createdAt": "2026-11-20T12:23:57.149Z"
+  },
+  {
+    "id": "de2248b0-9a1b-4c24-98e3-0bf521cd8fd0",
+    "platform": "bluesky",
+    "date": "2026-11-23T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Good SaaS web content starts with understanding what users actually want to know.\n\nAlsoAsked explores related questions potential users ask.\n\nDiscover questions worth answering, expand your blog topics and build more useful content for your SaaS audience.\n\n#ContentMarketing #SEO #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:26:55.014Z"
+  },
+  {
+    "id": "2398fc42-fab7-4ede-acef-d761fc83abd8",
+    "platform": "bluesky",
+    "date": "2026-11-23T12:17:00.000Z",
+    "timezone": "Africa/Nairobi",
+    "recurrence": {
+      "type": "none"
+    },
+    "status": "scheduled",
+    "posted": false,
+    "retryCount": 0,
+    "error": null,
+    "text": "Good SaaS web content starts with understanding what users actually want to know.\n\nAlsoAsked explores related questions potential users ask.\n\nDiscover questions worth answering, expand your blog topics and build more useful content for your SaaS audience.\n\n#ContentMarketing #SEO #IndieHacker",
+    "thread": null,
+    "media": null,
+    "createdAt": "2026-11-20T12:27:31.934Z"
   }
 ]
