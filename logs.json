@@ -1,45 +1,5 @@
 [
   {
-    "time": "2026-10-15T09:20:54.493Z",
-    "level": "info",
-    "event": "CHECK",
-    "message": "No posts are due.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
-    "time": "2026-10-15T14:15:12.085Z",
-    "level": "info",
-    "event": "LOGIN",
-    "message": "Logged into Bluesky.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
-    "time": "2026-10-15T14:15:12.085Z",
-    "level": "info",
-    "event": "PUBLISH_START",
-    "message": "Publishing post 7a67bde7-74a2-4f69-aa19-3633801d0de6.",
-    "postId": "7a67bde7-74a2-4f69-aa19-3633801d0de6",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-15T14:15:13.729Z",
-    "level": "info",
-    "event": "PUBLISHED",
-    "message": "Post 7a67bde7-74a2-4f69-aa19-3633801d0de6 published successfully.",
-    "postId": "7a67bde7-74a2-4f69-aa19-3633801d0de6",
-    "timezone": "Africa/Nairobi"
-  },
-  {
-    "time": "2026-10-15T18:22:55.718Z",
-    "level": "info",
-    "event": "LOGIN",
-    "message": "Logged into Bluesky.",
-    "postId": null,
-    "timezone": "UTC"
-  },
-  {
     "time": "2026-10-15T18:22:55.719Z",
     "level": "info",
     "event": "PUBLISH_START",
@@ -3998,5 +3958,45 @@
     "message": "No posts are due.",
     "postId": null,
     "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-23T12:59:02.237Z",
+    "level": "info",
+    "event": "LOGIN",
+    "message": "Logged into Bluesky.",
+    "postId": null,
+    "timezone": "UTC"
+  },
+  {
+    "time": "2026-11-23T12:59:02.237Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post de2248b0-9a1b-4c24-98e3-0bf521cd8fd0.",
+    "postId": "de2248b0-9a1b-4c24-98e3-0bf521cd8fd0",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-23T12:59:02.498Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post de2248b0-9a1b-4c24-98e3-0bf521cd8fd0 published successfully.",
+    "postId": "de2248b0-9a1b-4c24-98e3-0bf521cd8fd0",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-23T12:59:02.498Z",
+    "level": "info",
+    "event": "PUBLISH_START",
+    "message": "Publishing post 2398fc42-fab7-4ede-acef-d761fc83abd8.",
+    "postId": "2398fc42-fab7-4ede-acef-d761fc83abd8",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "time": "2026-11-23T12:59:02.721Z",
+    "level": "info",
+    "event": "PUBLISHED",
+    "message": "Post 2398fc42-fab7-4ede-acef-d761fc83abd8 published successfully.",
+    "postId": "2398fc42-fab7-4ede-acef-d761fc83abd8",
+    "timezone": "Africa/Nairobi"
   }
 ]

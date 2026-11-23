@@ -27,14 +27,17 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "Good SaaS web content starts with understanding what users actually want to know.\n\nAlsoAsked explores related questions potential users ask.\n\nDiscover questions worth answering, expand your blog topics and build more useful content for your SaaS audience.\n\n#ContentMarketing #SEO #IndieHacker",
     "thread": null,
     "media": null,
-    "createdAt": "2026-11-20T12:26:55.014Z"
+    "createdAt": "2026-11-20T12:26:55.014Z",
+    "postedAt": "2026-11-23T12:59:02.498Z",
+    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n2y6obfuyz2m",
+    "cid": "bafyreigkcu5p6mu7qeycckirqurhcygyodcq2kgjt7pqpv2pt3f7ssopdm"
   },
   {
     "id": "2398fc42-fab7-4ede-acef-d761fc83abd8",
@@ -44,14 +47,17 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "Good SaaS web content starts with understanding what users actually want to know.\n\nAlsoAsked explores related questions potential users ask.\n\nDiscover questions worth answering, expand your blog topics and build more useful content for your SaaS audience.\n\n#ContentMarketing #SEO #IndieHacker",
     "thread": null,
     "media": null,
-    "createdAt": "2026-11-20T12:27:31.934Z"
+    "createdAt": "2026-11-20T12:27:31.934Z",
+    "postedAt": "2026-11-23T12:59:02.721Z",
+    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n2y6obmqyq2t",
+    "cid": "bafyreiaxs4qe6kigxnszi3avlbayi3w5t3qhgltkixospmozkaf7ld3flq"
   },
   {
     "id": "ce284eb0-7ba5-498f-bedd-6a19e8cf13cf",
