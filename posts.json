@@ -1,8 +1,8 @@
 [
   {
-    "id": "6a0d9301-dd55-4a30-82e6-54ef51869979",
+    "id": "20c70c26-1eeb-4cb4-a410-040b956ec265",
     "platform": "bluesky",
-    "date": "2026-11-25T12:17:00.000Z",
+    "date": "2026-11-26T12:17:00.000Z",
     "timezone": "Africa/Nairobi",
     "recurrence": {
       "type": "none"
@@ -11,30 +11,13 @@
     "posted": true,
     "retryCount": 0,
     "error": null,
-    "text": "Want people to follow your SaaS journey?\n\nShow the actual work.\n\nShare user feedback, traffic numbers, failed experiments and lessons learned.\n\nYou don't need to make every update look like a success story. \n\nHonest progress is often more interesting.\n\n#BuildInPublic #IndieHackers #SaaS",
-    "thread": null,
-    "media": null,
-    "createdAt": "2026-11-20T12:32:01.142Z",
-    "postedAt": "2026-11-25T14:11:04.359Z",
-    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n35dmvycdy2g",
-    "cid": "bafyreiaapmui5ki4hp2va4pjzd23jaqn2clyvfwbu37vxffgjlaoop6stu"
-  },
-  {
-    "id": "20c70c26-1eeb-4cb4-a410-040b956ec265",
-    "platform": "bluesky",
-    "date": "2026-11-26T12:17:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "recurrence": {
-      "type": "none"
-    },
-    "status": "scheduled",
-    "posted": false,
-    "retryCount": 0,
-    "error": null,
     "text": "One of the biggest mistakes in SEO is creating separate pages for keywords that belong together.\n\nKeyword Insights groups related keywords into clusters, helping you decide which topics deserve individual pages.\n\nA useful approach to planning a SaaS content strategy.\n\n#SEO #SaaS #IndieHacker",
     "thread": null,
     "media": null,
-    "createdAt": "2026-11-20T12:33:42.109Z"
+    "createdAt": "2026-11-20T12:33:42.109Z",
+    "postedAt": "2026-11-26T15:20:10.338Z",
+    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n37xxfes3s2i",
+    "cid": "bafyreihvba77lg5ui2d5545oxrheucnfnrd3puz2wvedowgasrjfms5jlu"
   },
   {
     "id": "41b47795-d07d-4c25-b691-90ee7a4399af",
