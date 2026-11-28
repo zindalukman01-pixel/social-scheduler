@@ -27,14 +27,17 @@
     "recurrence": {
       "type": "none"
     },
-    "status": "scheduled",
-    "posted": false,
+    "status": "posted",
+    "posted": true,
     "retryCount": 0,
     "error": null,
     "text": "Your potential users are already discussing their problems somewhere\n\nFind the relevant subreddit, Slack group or Discord server\n\nSpend time answering questions and helping people without immediately pitching your SaaS\n\nBuild trust before asking for attention.\n\n#CommunityMarketing #SaaS #IndieHacker",
     "thread": null,
     "media": null,
-    "createdAt": "2026-11-20T12:38:58.310Z"
+    "createdAt": "2026-11-20T12:38:58.310Z",
+    "postedAt": "2026-11-28T17:43:40.642Z",
+    "uri": "at://did:plc:kvtf5uige6xf7s2txq3mmjho/app.bsky.feed.post/3n3favtopll2h",
+    "cid": "bafyreibdw7ypony47swtbfhs7xjg64l6bka7x2a3tswckxcygj5fc7k6e4"
   },
   {
     "id": "a7dac057-0df0-43e3-8f1d-1d138804bc6d",
